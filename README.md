@@ -52,5 +52,5 @@ The challenge: design a system that motivates behavior change and supports learn
 
 
 
-[Your Name] — Final Year Research Project  
+Ikran M - Final Year Research Project  
 Focus: UX Research | Behavioral Modeling | Simulation Systems | Human-Centered AI
