@@ -31,13 +31,13 @@ The challenge: design a system that motivates behavior change and supports learn
 
 # Repository Structure
 
-- 01-introduction.md — Background and research motivation  
-- 02-literature-review.md — Insights from gamification and behavioral modeling  
-- 03-gamification-models.md — Core frameworks and design principles  
-- 04-simulation-design.md — Architecture and mechanics of the simulation  
-- 05-training-methodology.md — Measurement and evaluation strategies  
-- 06-findings-and-insights.md — Key takeaways and behavioral insights  
-- 07-conclusion.md — Summary, recommendations, and potential AI integration  
+- 01-introduction.md - Background and research motivation  
+- 02-literature-review.md -Insights from gamification and behavioral modeling  
+- 03-gamification-models.md - Core frameworks and design principles  
+- 04-simulation-design.md - Architecture and mechanics of the simulation  
+- 05-training-methodology.md - Measurement and evaluation strategies  
+- 06-findings-and-insights.md - Key takeaways and behavioral insights  
+- 07-conclusion.md - Summary, recommendations, and potential AI integration  
 
 ---
 
